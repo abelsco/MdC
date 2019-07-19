@@ -1,0 +1,6 @@
+Aluno: Abel dos Santos Menezes
+RA: 1689118
+
+Considerações
+Arquivo mdc com todos os testes efetudos.
+O codigo principal é o main, demais .c representam falhas. 
